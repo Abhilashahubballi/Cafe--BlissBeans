@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PHP / vendor (if later added)
+vendor/
+composer.lock
+
+# Logs
+logs/
+*.log
